@@ -7,3 +7,5 @@
 **BetterGuilded** is 100% open-source, developed by users on Guilded, and inspired by ReGuilded.
 
 Want to contribute to the project? We recommend helping out over at [https://github.com/BetterGuildedgg/betterguilded](https://github.com/BetterGuildedgg/betterguilded)!
+
+* [Find us on Guilded](https://guilded.gg/BetterGuilded)
